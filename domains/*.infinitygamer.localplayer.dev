@@ -1,0 +1,17 @@
+{
+    "description": "Main link for the InfinityGamer game site. Wildcard may help prevent from schools blocking it. Same with it being proxied.",
+
+    "domain": "localplayer.dev",
+    "subdomain": "*.infinitygamer",
+
+    "owner": {
+        "repo": "https://github.com/InfinityGamer-Game-Site/InfinityGamer",
+        "email": "infinityloop5@icloud.com"
+    },
+
+    "record": {
+        "CNAME": "example.com"
+    },
+
+    "proxied": true
+}
