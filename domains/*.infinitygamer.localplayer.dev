@@ -10,7 +10,7 @@
     },
 
     "record": {
-        "CNAME": "example.com"
+        "CNAME": "infinitygamer.netlify.app"
     },
 
     "proxied": true
